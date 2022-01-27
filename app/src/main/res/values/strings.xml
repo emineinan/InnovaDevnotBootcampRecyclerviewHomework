@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecyclerviewHomework</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="market">market</string>
+    <string name="akakce">akakçe</string>
+    <string name="price">0,00 TL</string>
+    <string name="arama">Arama</string>
+    <string name="market_listem">Market Listem</string>
+    <string name="uygulamalar">Uygulamalar</string>
+    <string name="reyonlar">Reyonlar</string>
+</resources>
